@@ -1,2 +1,2 @@
-# pivotaldesign.github.io
-Pivotal Design
+# Pivotal Design
+Welcome
